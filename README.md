@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demonshrous
 - 👀 I’m interested in sports, video games and guitar
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
